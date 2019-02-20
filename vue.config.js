@@ -2,9 +2,9 @@ module.exports = {
     outputDir: 'docs',
     assetsDir: './',
     publicPath: './'
-    baseUrl: process.env.NODE_ENV === 'production'
-      ? './sample-project/'
-      : '/'
+    // baseUrl: process.env.NODE_ENV === 'production'
+    //   ? './sample-project/'
+    //   : '/'
 }
 
 
@@ -13,3 +13,4 @@ module.exports = {
 //       ? '/my-project/'
 //       : '/'
 //   }
+// https://hiramatsuyoshiaki.github.io/sample-project/
