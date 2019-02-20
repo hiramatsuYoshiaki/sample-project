@@ -59,6 +59,7 @@ npm run build
 ###  GitHub に Push する  
 git add -A  
 git commit -m 'build commit'  
+git push  
 
 ### GitHub プロジェクトの設定変更  
 公開するプロジェクト（リポジトリ）のトップページで「Settings」を選択します。  
