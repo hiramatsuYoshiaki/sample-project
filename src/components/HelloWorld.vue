@@ -4,6 +4,13 @@
 
     <h2>sub blanch で開発を行います。</h2>
     <h2>確認後マスターブランチへマージしてください。</h2>
+    <h2>今後のＷｅｂ編集予定</h2>
+    <ul>
+      <li>1.header</li>
+      <li>2.main</li>
+      <li>3.footer</li>
+    </ul>
+
     <!-- <p>
       For a guide and recipes on how to configure / customize this project,<br>
       check out the
