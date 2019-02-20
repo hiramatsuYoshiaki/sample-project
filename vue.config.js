@@ -2,6 +2,9 @@ module.exports = {
     outputDir: 'docs',
     assetsDir: './',
     publicPath: './'
+    baseUrl: process.env.NODE_ENV === 'production'
+      ? './sample-project/'
+      : '/'
 }
 
 
